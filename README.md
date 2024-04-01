@@ -1,2 +1,28 @@
-# python-machine-learning-pandas-data-analysis
-Python Machine Learning (Pandas Data Analysis)
+# 파이썬 머신러닝 판다스 데이터 분석
+
+## 교재
+
+[[Python 완전정복 시리즈] 2편 : Pandas DataFrame 완전 정복](https://wikidocs.net/book/7188)
+
+## 목차
+1. Intro
+1. 객체 간 연산
+1. 객체 내 연산
+1. 함수 적용
+1. 인덱싱
+1. 비교 & 필터링
+1. 결측제어
+1. 정렬
+1. 결합
+1. 가공
+1. 정보
+1. 데이터타입
+1. 확인
+1. 축 및 레이블
+1. 통계(기초)
+1. 통계(심화)
+1. 시간
+1. 멀티인덱스
+1. 반복
+1. 형식 변환
+1. 플로팅(plot) 
